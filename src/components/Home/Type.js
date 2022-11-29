@@ -10,10 +10,11 @@ function Type() {
           "Deep Learning Enthusiast",
           "DSA Enthusiast",
           "Open Source Contributor",
+          "Hackathon Enthusiast",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 90,
       }}
     />
   );
