@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/kushagra-18.github.io/portfolio-ks/static/css/main.b584c719.css",
-    "main.js": "/kushagra-18.github.io/portfolio-ks/static/js/main.08193b3f.js",
-    "static/js/415.4d6acbeb.chunk.js": "/kushagra-18.github.io/portfolio-ks/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/kushagra-18.github.io/portfolio-ks/static/js/787.1ed0c42c.chunk.js",
-    "static/media/leaf.png": "/kushagra-18.github.io/portfolio-ks/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/kushagra-18.github.io/portfolio-ks/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/kushagra-18.github.io/portfolio-ks/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/kushagra-18.github.io/portfolio-ks/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/Kushagra_Sharma.pdf": "/kushagra-18.github.io/portfolio-ks/static/media/Kushagra_Sharma.b0348661e7e7f7906ba3.pdf",
-    "static/media/blog.png": "/kushagra-18.github.io/portfolio-ks/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/kushagra-18.github.io/portfolio-ks/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/kushagra-18.github.io/portfolio-ks/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/kushagra-18.github.io/portfolio-ks/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/kushagra-18.github.io/portfolio-ks/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/kushagra-18.github.io/portfolio-ks/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/kushagra-18.github.io/portfolio-ks/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/kushagra-18.github.io/portfolio-ks/index.html",
-    "main.b584c719.css.map": "/kushagra-18.github.io/portfolio-ks/static/css/main.b584c719.css.map",
-    "main.08193b3f.js.map": "/kushagra-18.github.io/portfolio-ks/static/js/main.08193b3f.js.map",
-    "415.4d6acbeb.chunk.js.map": "/kushagra-18.github.io/portfolio-ks/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/kushagra-18.github.io/portfolio-ks/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio-ks/static/css/main.768c7c8b.css",
+    "main.js": "/portfolio-ks/static/js/main.ed214e3b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio-ks/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-ks/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/portfolio-ks/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/portfolio-ks/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/portfolio-ks/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/portfolio-ks/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Kushagra_Sharma.pdf": "/portfolio-ks/static/media/Kushagra_Sharma.b0348661e7e7f7906ba3.pdf",
+    "static/media/blog.png": "/portfolio-ks/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/portfolio-ks/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio-ks/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/portfolio-ks/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/portfolio-ks/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio-ks/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio-ks/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio-ks/index.html",
+    "main.768c7c8b.css.map": "/portfolio-ks/static/css/main.768c7c8b.css.map",
+    "main.ed214e3b.js.map": "/portfolio-ks/static/js/main.ed214e3b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio-ks/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-ks/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b584c719.css",
-    "static/js/main.08193b3f.js"
+    "static/css/main.768c7c8b.css",
+    "static/js/main.ed214e3b.js"
   ]
 }
